@@ -1,6 +1,7 @@
 # Automation Testing - Mentoring Feature (Dealls)
 
 This project provides automated testing for the **Mentoring** feature on the [Dealls](https://job-portal-user-dev-skx7zw44dq-et.a.run.app/mentoring) website using **Playwright** with **JavaScript**.
+For document, can open in this Google Docs url https://docs.google.com/document/d/1opGArCZsMK7ye_Hi8TFAwzHORVsESVZqpBj2-BcOePA/edit?usp=sharing
 
 ## 📋 Purpose
 
